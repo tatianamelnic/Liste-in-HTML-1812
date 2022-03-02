@@ -4,78 +4,19 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>liste</title>
+    <title>lista grupei 1812</title>
 </head>
 <body>
     
-    <h1>Examenele BAC sesiunea 2011</h1>
+    <h1>Introduceți numele și prenumele personal!</h1>
     
-    <ol type="I">
-      <li><b>Obligatorii</b></li>
-<ol type="A">
-<li><b>profilul real</b></li>
-<ul>
-   <li> <b>matematica</b></li>
-    <li><b>limba de instruire</b></li>
-    <li><b>limba straina</b></li>
-    <ul type="circle">
-        <i>
-            <li><b> L.engleza</b></li>
-            <b> <li>L.franceza</li></b>
-            <b><li>L.germana</li></b>
-            <b><li>L.spaniola</li></b>
-         </i>
-    </ul>
-
-</ul>
-<li><b>profilul umanist</b></li>
-<ul>
-    <b><li>Istoria romanilor</li></b>
-    <b> <li>limba de instruire</li></b>
-    <b><li>limba straina</li></b>
-    <ul type="circle">
-        <i>
-       <b> <li>L.engleza</li></b>
-       <b><li>L.franceza</li></b>
-       <b> <li>L.germana</li></b>
-       <b><li>L.spaniola</li></b>
-         </i>
-    </ul>
-
-</ul>
-</ol>
-<li><b>Optional 1.</b></li>
-<ol type="A">
-    <b><li>profilul real</li></b>
-    <ul>
-         <li><b>Istoria romanilor</b></li>
-        <b> <li>Istoria universala</li></b>
-        <b> <li>Informatica</li></b>
-        <b> <li>Biologia</li></b>
-    </ul>
-    <b><li>profilul umanist</li></b>
-    <ul>
-        <b> <li>Geografia</li></b>
-        <b><li>Biologia</li></b>
-        <b><li>Fizica</li></b>
-    </ul>
-    </ol>
-    <li><b>Optional 2.</b></li>
-<ol type="A">
-    <li><b>profilul real</b></li>
-    <ul>
-        <b> <li>Chimia</li></b>
-        <b> <li>Fizica</li></b>
-        <b> <li>Geografia</li></b>
-    </ul>
-   <li> <b> profilul umanist</b></li>
-    <ul>
-        <b> <li>Chimia</li></b>
-        <b> <li>Matematica</li></b>
-        <b> <li>Istoria universala</li></b>
-    </ul>
-    </ol>
-    </ol>
-
-</body>
+   
+<H2>AAW1812G</H2>
+<br>
+<ol>
+   <li> <b>........</b></li>
+   <li><b>.........</b></li>
+   <li><b>.........</b></li>
+ </ol>
+ </body>
 </html>
